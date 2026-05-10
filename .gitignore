@@ -1,0 +1,7 @@
+.codex-gh/
+.codex-ssh/
+gcm-diagnose.log
+__pycache__/
+*.py[cod]
+vendor/
+*.nk.autosave
